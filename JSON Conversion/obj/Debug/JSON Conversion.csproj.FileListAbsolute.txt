@@ -1,0 +1,13 @@
+D:\GIT\chinese-json-converter\JSON Conversion\bin\Debug\JSON Conversion.exe.config
+D:\GIT\chinese-json-converter\JSON Conversion\bin\Debug\JSON Conversion.exe
+D:\GIT\chinese-json-converter\JSON Conversion\bin\Debug\JSON Conversion.pdb
+D:\GIT\chinese-json-converter\JSON Conversion\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\chinese-json-converter\JSON Conversion\bin\Debug\Newtonsoft.Json.xml
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.csprojAssemblyReference.cache
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON_Conversion.Form1.resources
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON_Conversion.Properties.Resources.resources
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.csproj.GenerateResource.cache
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.csproj.CoreCompileInputs.cache
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.csproj.CopyComplete
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.exe
+D:\GIT\chinese-json-converter\JSON Conversion\obj\Debug\JSON Conversion.pdb
